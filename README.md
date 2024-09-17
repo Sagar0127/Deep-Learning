@@ -1,0 +1,2 @@
+- Neural Networks to recognize hand written digits
+- CNN to identify images
